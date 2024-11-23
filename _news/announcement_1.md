@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Held a talk with the business and technology club at the University of Washington, discussing all things data science and consulting!
+Held a talk with the business and technology club at the University of Washington, discussing all things data science and consulting! :sparkles:
