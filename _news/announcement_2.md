@@ -6,7 +6,7 @@ inline: false
 related_posts: false
 ---
 
-The Halıcıoğlu Data Science Institute (HDSI) has announced its six nominees for the 2024 [Alumni of the Year](https://datascience.ucsd.edu/hdsi-celebrates-outstanding-alumni-with-annual-award-nominations/) award. This annual recognition celebrates exceptional contributions by alumni to the HDSI community, highlighting their roles in fostering a vibrant and supportive network. The award not only honors individual achievements but also emphasizes the importance of alumni engagement in nurturing the next generation of data scientists.
+The Halıcıoğlu Data Science Institute (HDSI) has announced its six nominees for the 2024 Alumni of the Year award. This annual recognition celebrates exceptional contributions by alumni to the HDSI community, highlighting their roles in fostering a vibrant and supportive network. The award not only honors individual achievements but also emphasizes the importance of alumni engagement in nurturing the next generation of data scientists.
 
 ---
 
