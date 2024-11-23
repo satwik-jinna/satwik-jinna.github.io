@@ -2,9 +2,9 @@
 layout: page
 title: Detecting Contradictions With NLP
 description: Check out my team's entry to Deloitte's PolicyRecon Hackathon.
-img: assets/img/12.jpg
+img: assets/img/PolicyRecon.jpg
 importance: 1
-category: work
+category: personal
 related_publications: false
 ---
 
