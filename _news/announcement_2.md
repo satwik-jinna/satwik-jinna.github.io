@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nominated for Alumni of the Year, HDSI 2024!
+title: Nominated for Alumni of the Year, HDSI 2024! 🥳
 date: 2024-08-05 16:11:00-0400
 inline: false
 related_posts: false
