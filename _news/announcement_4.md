@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Won second place in Deloitte's PolicyRecon Hackathon! 🥈
+Won second place in Deloitte\'s PolicyRecon Hackathon! 🥈
