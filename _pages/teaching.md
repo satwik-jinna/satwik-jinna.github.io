@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
+title: Teaching and Mentoring Info
 description: Curious about my Capstone course? Below is some information about it!
 nav: true
 nav_order: 6
