@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Data Science for the Betterment of the World
+subtitle: 🔹Data Science for Good 🔹
 
 profile:
   align: right
