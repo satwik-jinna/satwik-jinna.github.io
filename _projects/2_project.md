@@ -2,9 +2,9 @@
 layout: page
 title: project 2
 description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+img: assets/img/PC_algorithm.jpg
 importance: 2
-category: work
+category: personal
 giscus_comments: true
 ---
 
