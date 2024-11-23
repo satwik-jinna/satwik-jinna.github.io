@@ -1,7 +1,7 @@
 ---
 layout: page
 title: project 2
-description: a project with a background image and giscus comments
+description: Life Expectancy Causal Analysis - PC Algorithm
 img: assets/img/PC_algorithm.jpg
 importance: 2
 category: personal
