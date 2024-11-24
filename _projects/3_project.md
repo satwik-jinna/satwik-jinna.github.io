@@ -6,75 +6,25 @@ img: assets/img/7.jpg
 importance: 3
 category: personal
 ---
+**Stay Tuned for Repo!**
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Despite the legalization of marijuana in 2016, there is still signifigant disparity in marijuana-possession arrests based on socioeconomic background in LA County, California.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Marijuana is the most commonly used (federally) illegal drug in the United States[^1]. In February of 2015, the District of Columbia approved Inititative 71, allowing those who are aged 21 or above to posses small amounts of marijuana legally. Similarly, California legalized recreational use of marijuana through Proposition 64 in 2016[^2]. Post legalization, the California Department of Justice saw a 27% decline in felony cannabis charges. Of the remaining felony cannabis charges, Hispanics counted for 42% of those arrests, followed by African Americans at 22% and Whites at 21%. This is a concerning number, since Black individuals are almost 4.5 times more likely to be arrested than white individuals in 2019 compared to 4 times more likely than whites in 2018. Despite the legalization, these numbers are still rising. Similarly, Hispanics also saw a rise from 2018 to 2019, being two times more likely to be arrested compared to someone who is White[^3]. These rises in arrests for those with a certain background despite legalization raises immediate concerns - ones we hope to highlight in this project. 
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+We cannot just stop with the legalization of marijuana - we have to address the continuing racial disparity and unfair policing of communities. According to an xtown article examining Los Angeles county specific data, Black and Latino individuals have continuously seen in increase in arrests year-by-year after the legalization of marijuana, which is the opposite of what was expected post-legalization[^4]. The article proposes several reasons for these increased arrests: wealthier and predominantly white areas have access to legal dispensaries, whereas other areas do not[^4]. The disparity in awarding business permits, combined with resources being dedicated to policing certain geographical areas with marginalized communities, leads to this disparity in arrests, and is in need of urgent attention. 
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+[^1] CDC. (20 April 2022) Marijuana and Public Health: Data and Statistics. *CDC*. https://www.cdc.gov/marijuana/data-statistics.html
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+[^2] CA.GOV. (20 April 2022) The Control, Regulate and Tax Adult Use of Marijuana Act. *CA.GOV* https://post.ca.gov/proposition-64-the-control-regulate-and-tax-adult-use-of-marijuana-act
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+[^3] Blood, Michael. (20 April 2022) Report: California pot arrests still fall heavily on Hispanics, Blacks. *Chicago Tribune* https://www.chicagotribune.com/marijuana/sns-marijuana-arrests-fall-on-hispanics-blacks-20200717-7kjlkewtxbbylcr5afc5igzgra-story.html
 
-{% raw %}
+[^4] Ward, Ethan. (20 April 2022) After pot was legalized, more Black people were arrested. *Crosstown* https://xtown.la/2020/07/08/after-pot-was-legalized-more-black-people-were-arrested/
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
 
-{% endraw %}
+**Ethics and Privacy**
+Privacy is a huge concern in a project of this type. This data includes arrests of real people, who serve time and face charges in their life. Although our data is from sources that take out personally identifying information, it is important to recognize the impact that our analysis can have on the lives of real people. These statistics detail real-life situations - point out flaws in our criminal justice system, examine how the data is created/collected and its associated problems, and discusses life-long situations that individuals must endure. 
+
+In order to advocate for change, it is necessary to use real, up to date data in order to give an accurate image of the current status of our criminal justice system. The legalization of marijuana should start the critical discussion and review of the current flawed policies and law that allow protected characteristics such as race, gender, age, and location to influence the liklihood of being arrested on a drug-charge related to marijuana. We must, additionally, use intersectional thinking in order to understand how oppression and priviledge operate in this dynamic. Thus, in order to be as ethical as possible, we will continually recognize the origin of our data and the impact of our conclusion.
