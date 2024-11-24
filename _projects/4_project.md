@@ -16,7 +16,7 @@ Our algorithm is created to be used during the “Hyperparameter Tuning” stage
 
 In short, BiasAwareGridSearchCV is our effort to ensure that AI and machine learning contribute positively and fairly to our society, providing tools that help mitigate bias in automated decision-making.
 
-Curious to learn more? Email me and I'll forward you to the team!
+Curious to learn more? Email me and I'll forward you to the team! Or, check out their repo [here](https://github.com/474benchen/bias_aware_gridsearchCV)
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
