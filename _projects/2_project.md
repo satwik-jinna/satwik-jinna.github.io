@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 2
-description: Life Expectancy Causal Analysis - PC Algorithm
+title: Life Expectancy Causal Analysis - PC Algorithm
+description: My senior capstone project!
 img: assets/img/PC_algorithm.jpg
 importance: 2
 category: personal
