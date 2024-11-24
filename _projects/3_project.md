@@ -1,11 +1,10 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
+title: Legalization of Marijuana and Drug-related Crime Rates in LA County
+description: Did the legalization of marijuana change drug-related crime rates of individuals in various socioeconomic background in LA County over the past ten years? 
 img: assets/img/7.jpg
-redirect: https://unsplash.com
 importance: 3
-category: work
+category: personal
 ---
 
 Every project has a beautiful feature showcase page.
