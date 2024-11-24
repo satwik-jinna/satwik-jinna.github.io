@@ -1,5 +1,6 @@
 ---
 layout: post
+title: UW Technology and Business Club Panel
 date: 2024-11-20 15:59:00-0400
 inline: false
 related_posts: false
