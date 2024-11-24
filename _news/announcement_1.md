@@ -8,6 +8,14 @@ related_posts: false
 
 Held a talk with the business and technology club at the University of Washington, discussing all things data science and consulting! :sparkles:
 
+We answered questions such as...
+- What has consulting taught you?
+- What skills from data science were directly applicable?
+- What is your favorite and least favorite part about your job?
+- How do you see artificial intelligence transforming the consulting world?
+- Any advice for undergraduate students?
+
+I followed the Q&A with a networking session, providing advice to students as they approach graduation. 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
