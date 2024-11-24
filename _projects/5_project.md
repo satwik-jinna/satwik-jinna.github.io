@@ -10,7 +10,7 @@ category: mentored
 - In order to achieve this purpose, we built a music recommender app based upon machine learning methods that mitigates regional bias allowing for global representation while also prioritizing user satisfaction.
 - Overall, our hope is to start creating a more fair and equitable music industry promoting cultural diversity.
   
-Curious to learn more? Email me and I'll forward you to the team!
+Curious to learn more? Email me and I'll forward you to the team! Or, check out their repo [here](https://github.com/jebrus/DSC-180B-Final-Project)
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
