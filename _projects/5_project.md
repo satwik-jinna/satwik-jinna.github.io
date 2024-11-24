@@ -9,7 +9,7 @@ category: mentored
 - Our purpose in this project is to provide a platform that allows underrepresented musical artists from around the world to be seen while simultaneously allowing users to explore and discover new music that still fits within their musical palette.
 - In order to achieve this purpose, we built a music recommender app based upon machine learning methods that mitigates regional bias allowing for global representation while also prioritizing user satisfaction.
 - Overall, our hope is to start creating a more fair and equitable music industry promoting cultural diversity.
-- 
+  
 Curious to learn more? Email me and I'll forward you to the team!
 
 <div class="row">
