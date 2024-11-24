@@ -6,9 +6,9 @@ img: music_project.jpg
 importance: 3
 category: mentored
 ---
-- Our purpose in this project is to provide a platform that allows underrepresented musical artists from around the world to be seen while simultaneously allowing users to explore and discover new music that still fits within their musical palette.
-- In order to achieve this purpose, we built a music recommender app based upon machine learning methods that mitigates regional bias allowing for global representation while also prioritizing user satisfaction.
-- Overall, our hope is to start creating a more fair and equitable music industry promoting cultural diversity.
+This program leverages Last.fm user data and debiasing techniques to recommend music irrespective of its country of origin, showing users songs that fit their taste from countries whose music they've never heard before.
+
+Our music recommender offers a unique set of features designed for personalized music discovery. Users can input their favorite artists to receive a curated list of recommended artists tailored to their individual tastes, focusing primarily on promoting musical diversity. Unlike conventional music recommenders, our system prioritizes suggestions from musically underrepresented countries, stepping away from the mainstream markets of the US, UK, and Canada. This approach not only broadens the spectrum of musical landscapes and cultures available to users but also highlights more obscure and emerging artists. By doing so, we provide an avenue for the exploration of unique sounds and styles not typically found in commercial charts, encouraging users to discover new music that they might not encounter elsewhere.
   
 Curious to learn more? Email me and I'll forward you to the team! Or, check out their repo [here](https://github.com/jebrus/DSC-180B-Final-Project)
 
