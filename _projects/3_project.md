@@ -14,14 +14,14 @@ Marijuana is the most commonly used (federally) illegal drug in the United State
 
 We cannot just stop with the legalization of marijuana - we have to address the continuing racial disparity and unfair policing of communities. According to an xtown article examining Los Angeles county specific data, Black and Latino individuals have continuously seen in increase in arrests year-by-year after the legalization of marijuana, which is the opposite of what was expected post-legalization[^4]. The article proposes several reasons for these increased arrests: wealthier and predominantly white areas have access to legal dispensaries, whereas other areas do not[^4]. The disparity in awarding business permits, combined with resources being dedicated to policing certain geographical areas with marginalized communities, leads to this disparity in arrests, and is in need of urgent attention. 
 
+References
+[1] CDC. (20 April 2022) Marijuana and Public Health: Data and Statistics. *CDC*. https://www.cdc.gov/marijuana/data-statistics.html
 
-[^1] CDC. (20 April 2022) Marijuana and Public Health: Data and Statistics. *CDC*. https://www.cdc.gov/marijuana/data-statistics.html
+[2] CA.GOV. (20 April 2022) The Control, Regulate and Tax Adult Use of Marijuana Act. *CA.GOV* https://post.ca.gov/proposition-64-the-control-regulate-and-tax-adult-use-of-marijuana-act
 
-[^2] CA.GOV. (20 April 2022) The Control, Regulate and Tax Adult Use of Marijuana Act. *CA.GOV* https://post.ca.gov/proposition-64-the-control-regulate-and-tax-adult-use-of-marijuana-act
+[3] Blood, Michael. (20 April 2022) Report: California pot arrests still fall heavily on Hispanics, Blacks. *Chicago Tribune* https://www.chicagotribune.com/marijuana/sns-marijuana-arrests-fall-on-hispanics-blacks-20200717-7kjlkewtxbbylcr5afc5igzgra-story.html
 
-[^3] Blood, Michael. (20 April 2022) Report: California pot arrests still fall heavily on Hispanics, Blacks. *Chicago Tribune* https://www.chicagotribune.com/marijuana/sns-marijuana-arrests-fall-on-hispanics-blacks-20200717-7kjlkewtxbbylcr5afc5igzgra-story.html
-
-[^4] Ward, Ethan. (20 April 2022) After pot was legalized, more Black people were arrested. *Crosstown* https://xtown.la/2020/07/08/after-pot-was-legalized-more-black-people-were-arrested/
+[4] Ward, Ethan. (20 April 2022) After pot was legalized, more Black people were arrested. *Crosstown* https://xtown.la/2020/07/08/after-pot-was-legalized-more-black-people-were-arrested/
 
 
 **Ethics and Privacy**
