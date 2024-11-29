@@ -2,7 +2,7 @@
 layout: page
 title: Diversifying the Global Music Industry through Debiasing Recommender Systems
 description: Check out this project completed by my 2023-2024 capstone students - Natalie Wu, Shivani Suthar, Samantha Horio, and Joshua Brusewitz!
-img: music_project.jpg
+img: 5.jpg
 importance: 3
 category: mentored
 ---
