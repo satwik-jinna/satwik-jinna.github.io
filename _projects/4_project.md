@@ -2,7 +2,7 @@
 layout: page
 title: Bias Aware Grid Search, Integrating Fairness into Model Selection
 description: Check out this project completed by my 2023-2024 capstone students - Jayson Leach, Anika Garg, Stephanie Chavez, and Ben Chen!
-img: bags_project.jpg
+img: assets/img/bags_project.jpg
 importance: 3
 category: mentored
 ---
