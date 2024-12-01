@@ -2,7 +2,7 @@
 layout: page
 title: Mitigating Director Gender Bias in Movie Recommender Systems
 description: Check out this project completed by my 2023-2024 capstone students - Michael Garcia-Perez and Christine Deng!
-img: 11.jpg
+img: assets/img/movie_project.jpg
 importance: 3
 category: mentored
 ---
