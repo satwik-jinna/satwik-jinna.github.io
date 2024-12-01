@@ -5,7 +5,7 @@
     "image": "",
     "email": "emily.ramond01@gmail.com",
     "phone": "",
-    "url": "emily-ramond.github.io",
+    "url": "",
     "summary": "",
     "location": {
       "address": "",
@@ -148,11 +148,11 @@
   "projects": [
     {
       "name": "In progress",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
+      "summary": "",
+      "highlights": [""],
       "startDate": "2018-01-01",
       "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "url": ""
     }
   ]
 }
