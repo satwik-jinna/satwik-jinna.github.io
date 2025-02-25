@@ -1,80 +1,24 @@
 ---
 layout: page
-title: project 9
-description: another project with an image 🎉
-img: assets/img/6.jpg
-importance: 4
-category: fun
+title: Ride-Hailing Bias
+description: Check out this project completed by my 2024-2025 capstone students - Wenbin Jiang, Ethan Lin, and Rongjing Jiang
+img: assets/img/ridehailing_project.jpg
+importance: 6
+category: mentored
 ---
+- This project investigates potential biases in ride-hailing dynamic pricing algorithms, focusing on whether fare prices disproportionately impact neighborhoods with higher proportions of racial minorities in New York City. Building on prior research in Chicago and our findings on AI bias in healthcare prediction models, we aim to uncover disparities in ride-hailing fares by analyzing publicly available data from sources like New York City census data and Taxi and Limousine Commision (TLC) data on Uber and Lyft.
+- The rapid expansion of ride-hailing platforms has introduced both opportunities and challenges in urban transportation. While these services enhance mobility, studies suggest that pricing algorithms may inadvertently reinforce economic and racial disparities. Prior research indicates that neighborhoods with higher poverty rates and larger minority populations may experience more frequent surge pricing, raising concerns about fairness in dynamic fare calculations. Our study builds upon existing literature by examining ride-hailing data from New York City to determine whether pricing disparities exist and, if so, how they can be mitigated through algorithmic interventions.
+- Our analysis relies on ride-hailing trip data from the New York City Taxi and Limousine Commission (TLC), which records millions of for-hire vehicle trips from services like Uber and Lyft. This dataset includes details such as trip duration, distance, fare breakdowns, pickup and drop-off locations, and vehicle type. Additionally, we integrate demographic data from the NYC Neighborhood Tabulation Areas (NTA), which provides insights into socioeconomic indicators like income levels, poverty rates, and racial composition. By merging these datasets, we aim to uncover potential biases in pricing while accounting for external factors like geography and infrastructure.
+-  As ride-hailing services continue to shape urban mobility, understanding their pricing mechanisms is crucial for ensuring fairness and accessibility. Our research takes a deep dive into the factors influencing ride-hailing fares, questioning whether these platforms unintentionally reinforce socioeconomic and racial disparities. By systematically analyzing trip data, demographic distributions, and pricing models, we probe into how algorithmic decision-making impacts different communities. Through this investigation, we aim to identify patterns of potential bias, assess fairness in fare structures, and explore strategies to mitigate inequities in ride-hailing services.
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+Curious to learn more? Email me and I'll forward you to the team! Or, check out their repo [here](https://github.com/gracejiang0929/Ride-Hailing-Bias-Website)
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/chd_poster.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
+    Student Poster Presented in 2025 Showcase - COMING SOON!
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
