@@ -1,0 +1,158 @@
+{
+  "basics": {
+    "name": "Emily Ramond",
+    "label": "Data Scientist",
+    "image": "",
+    "email": "emily.ramond01@gmail.com",
+    "phone": "",
+    "url": "",
+    "summary": "",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Seattle",
+      "countryCode": "US",
+      "region": "Washington"
+    },
+    "profiles": [
+      {
+        "network": "",
+        "username": "",
+        "url": ""
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Deloitte",
+      "position": "Consultant / Data Scientist",
+      "url": "",
+      "startDate": "2022-07-25",
+      "endDate": "Present",
+      "summary": "Serve as a data scientist on a variety of internal and external projects.",
+      "highlights": ["Python, Tableau"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of California, San Diego",
+      "location": "La Jolla, California",
+      "url": "",
+      "area": "Data Science",
+      "studyType": "BS",
+      "startDate": "2019-09-01",
+      "endDate": "2022-06-10"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Alumni of the Year Nominee",
+      "date": "2024-09-01",
+      "awarder": "Halicioglu Data Science Institute",
+      "url": "",
+      "summary": "Awarded for providing guidance and advice to current students, fostered community engagement, assisting with professional development activities and being an inspiration to peers."
+    },
+    {
+      "title": "PolicyRecon Hackathon 2nd Place Winner",
+      "date": "2023-05-03",
+      "awarder": "Deloitte",
+      "url": "",
+      "summary": "Recieved second place in hackathon for development of an algorithm to accurately detect contradictions in government policy documents."
+    },
+    {
+      "title": "Marshall College Scholar and Citizen Award",
+      "date": "2022-06-10",
+      "awarder": "University of California, San Diego",
+      "url": "",
+      "summary": "Recognizes outstanding junior-and senior-level students who have thrived academically and in thier co-curricular activities at Marshall College. "
+    },
+    {
+      "title": "Provost Honors",
+      "date": "",
+      "awarder": "University of California, San Diego",
+      "url": "",
+      "summary": "Seven-time award for academic excellence."
+    },
+    {
+      "title": "HDSI Peer Recognition Award",
+      "date": "2022-06-10",
+      "awarder": "University of California, San Diego",
+      "url": "",
+      "summary": "First of its kind. Received for achievements and impact within the DSC community and for exceptopmal teamwork/peer support."
+    },
+    {
+      "title": "HDSI Student Representative Award",
+      "date": "2022-06-10",
+      "awarder": "University of California, San Diego",
+      "url": "",
+      "summary": "Received for successful term as a student representative for DSC students, including planning events, scheduling feedback sessions, implementing suggested changes within the program, and ensuring student support."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "level": "Proficient",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Python",
+        "R",
+        "Java",
+        "SQL",
+        "JavaScript"
+      ]
+    },
+    {
+      "name": "Technologies",
+      "level": "Proficient",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "TensorFlow",
+        "PyTorch",
+        "Transformers",
+        "Tableau",
+        "PowerApps",
+        "PowerBI",
+        "AWS", 
+        "Docker"
+      ]
+    },
+    {
+      "name": "Concepts",
+      "level": "Proficient",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "Artificial Intelligence",
+        "Machine Learning",
+        "Causal Discovery",
+        "Ethical AI",
+        "Neural Networks",
+        "Data Governance",
+        "Recommender Systems",
+        "ETL Development",
+        "Agile Methodology",
+        "Marketing",
+        "Scripting",
+        "Recruiting",
+        "Research",
+        "Data Warehousing"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker",
+      "icon": ""
+    }
+  ],
+  "projects": [
+    {
+      "name": "In progress",
+      "summary": "",
+      "highlights": [""],
+      "startDate": "2018-01-01",
+      "endDate": "2018-01-01",
+      "url": ""
+    }
+  ]
+}
