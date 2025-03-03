@@ -64,7 +64,30 @@ layout: default
   <article class="post-content">
     {% if page.toc and page.toc.beginning %}
       <div id="table-of-contents">
-        {% toc %}
+        <script>
+  document.addEventListener("DOMContentLoaded", function() {
+    var toc = document.createElement("div");
+    toc.id = "table-of-contents";
+    toc.innerHTML = "<h2>Table of Contents</h2><ul id='toc-list'></ul>";
+    document.querySelector(".post-content").prepend(toc);
+    
+    var headers = document.querySelectorAll(".post-content h2, .post-content h3");
+    var tocList = document.getElementById("toc-list");
+
+    headers.forEach((header, index) => {
+      var id = "toc-item-" + index;
+      header.id = id;
+
+      var listItem = document.createElement("li");
+      var link = document.createElement("a");
+      link.href = "#" + id;
+      link.innerText = header.innerText;
+      listItem.appendChild(link);
+      tocList.appendChild(listItem);
+    });
+  });
+</script>
+
       </div>
       <hr>
     {% endif %}
